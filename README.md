@@ -45,8 +45,10 @@ Currently focusing on:
 Portfolio :
 https://pydevharsh.netlify.app
 
-Email ID : 
+Email : 
 pydevharsh@gmail.com
+
+Linkdin :
 
 ## GitHub Stats
 
